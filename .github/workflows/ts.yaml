@@ -48,4 +48,4 @@ jobs:
       - run: yarn
       - run: yarn lint --fix
       - run: yarn format
-      - uses: lampvux/update-generated-files-action@main # v1.0.0
+      # - uses: lampvux/update-generated-files-action@main # v1.0.0
